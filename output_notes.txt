@@ -1,0 +1,10 @@
+TRANSCRIPT:
+ This is a test lecture about artificial intelligence and machine learning.
+
+SUMMARY:
+This is a test lecture about artificial intelligence and machine learning.  This is aTest Lecture about Artificial Intelligence and Machine Learning. For more information, visit CNN.com/ArtificialIntelligence.
+
+QUIZ QUESTIONS:
+1. What is meant by This is a test?
+2. What is meant by This is aTest Lecture?
+3. What is meant by For more information, visit?
